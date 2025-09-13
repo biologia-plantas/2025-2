@@ -2,7 +2,7 @@
 title: "Biología de las Plantas (2025-2)"
 # subtitle: "Instituto de Biología, Universidad de Antioquia"
 description: |
-  Sitio web del curso Biología de las Plantas (2025-2) del Instituto de Biología de la Universidad de Antioquia.
+  Sitio web del curso Biología de las Plantas (2025-2) del Instituto de Biología de la Universidad de Antioquia
 
 author: 
   - name: "Álex Espinosa-Correa"
@@ -35,7 +35,7 @@ base::source(
 )
 ```
 
-::: {.panel-tabset}
+::::: {.panel-tabset}
 
 ## Oriente
 
@@ -70,11 +70,12 @@ tbl_cronograma_oriente |>
   )
 ```
 :::
+
 ### Evaluación general
 
 ::: {.light-content}
 ```{r}
-#| label: evaluacion-general-light
+#| label: evaluacion-oriente-general-light
 #| echo: false
 #| message: false
 #| html-table-processing: none
@@ -89,7 +90,7 @@ tbl_evaluacion_general |>
 
 ::: {.dark-content}
 ```{r}
-#| label: evaluacion-general-dark
+#| label: evaluacion-oriente-general-dark
 #| echo: false
 #| message: false
 #| html-table-processing: none
@@ -106,7 +107,7 @@ tbl_evaluacion_general |>
 
 ::: {.light-content}
 ```{r}
-#| label: evaluacion-laboratorio-light
+#| label: evaluacion-oriente-laboratorio-light
 #| echo: false
 #| message: false
 #| html-table-processing: none
@@ -121,7 +122,7 @@ tbl_evaluacion_laboratorio |>
 
 ::: {.dark-content}
 ```{r}
-#| label: evaluacion-laboratorio-dark
+#| label: evaluacion-oriente-laboratorio-dark
 #| echo: false
 #| message: false
 #| html-table-processing: none
@@ -134,46 +135,70 @@ tbl_evaluacion_laboratorio |>
 ```
 :::
 
-<!-- ## Medellín -->
+## Medellín
 
-<!-- ### Cronograma -->
+### Cronograma
 
-<!-- ```{r} -->
-<!-- #| label: cronograma-medellin -->
-<!-- #| echo: false -->
-<!-- #| message: false -->
-<!-- #| html-table-processing: none -->
+::: {.light-content}
+```{r}
+#| label: cronograma-medellin-light
+#| echo: false
+#| message: false
+#| html-table-processing: none
 
-<!-- cronograma_medellin <-  -->
-<!--   googlesheets4::read_sheet( -->
-<!--     "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0", -->
-<!--     sheet = 4 -->
-<!--   ) -->
-
-<!-- cronograma_medellin |>  -->
-<!--   gt::gt() |>  -->
-<!--   gt::sub_missing( -->
-<!--     missing_text = "" -->
-<!--   ) |>  -->
-<!--   gt::cols_label( -->
-<!--     clase = "Clase", -->
-<!--     fecha = "Fecha", -->
-<!--     laboratorio = "Laboratorio", -->
-<!--   ) |>  -->
-<!--   gt::fmt_markdown( -->
-<!--     columns = c(laboratorio) -->
-<!--   ) |>  -->
-<!--   gt::opt_table_font( -->
-<!--     font = gt::google_font(name = "Atkinson Hyperlegible") -->
-<!--   ) |>  -->
-<!--   gt::tab_style( -->
-<!--     style = gt::cell_text(weight = "bold"), -->
-<!--     locations = gt::cells_column_labels() -->
-<!--   ) |>  -->
-<!--   gt::tab_footnote( -->
-<!--     footnote = ("El cronograma puede variar dependiendo del desarrollo del curso"), -->
-<!--   ) -->
-<!-- ``` -->
-
+tbl_cronograma_medellin |> 
+  gt::tab_options(
+    table.background.color = "#fff",
+    table.font.color = "#212529"
+  )
+```
 :::
 
+::: {.dark-content}
+```{r}
+#| label: cronograma-medellin-dark
+#| echo: false
+#| message: false
+#| html-table-processing: none
+
+tbl_cronograma_medellin |> 
+  gt::tab_options(
+    table.background.color = "#222",
+    table.font.color = "#dee2e6"
+  )
+```
+:::
+
+### Evaluación laboratorio
+
+::: {.light-content}
+```{r}
+#| label: evaluacion-medellin-laboratorio-light
+#| echo: false
+#| message: false
+#| html-table-processing: none
+
+tbl_evaluacion_laboratorio |> 
+  gt::tab_options(
+    table.background.color = "#fff",
+    table.font.color = "#212529"
+  )
+```
+:::
+
+::: {.dark-content}
+```{r}
+#| label: evaluacion-medellin-laboratorio-dark
+#| echo: false
+#| message: false
+#| html-table-processing: none
+
+tbl_evaluacion_laboratorio |> 
+  gt::tab_options(
+    table.background.color = "#222",
+    table.font.color = "#dee2e6"
+  )
+```
+:::
+
+:::::
