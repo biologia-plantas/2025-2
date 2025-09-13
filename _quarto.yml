@@ -64,7 +64,8 @@ website:
           # - text: "Google Meet"
           #   href: https://meet.google.com/zrq-rtri-der
           - text: "Enlaces de utilidad"
-      - section: "Teoría"
+            href: enlaces.qmd
+      - section: "Teoría (Oriente)"
         contents:
           - text: "Introducción al curso"
             href: presentaciones/introduccion-curso/
