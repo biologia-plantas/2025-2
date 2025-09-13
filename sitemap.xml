@@ -1,71 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://biologia-plantas.github.io/2025-2/index.html</loc>
-    <lastmod>2025-08-03T20:41:28.986Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/fruto-laboratorio/index.html</loc>
-    <lastmod>2025-08-03T17:00:11.804Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/flor-laboratorio/index.html</loc>
-    <lastmod>2025-08-03T17:00:11.803Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/raiz/index.html</loc>
-    <lastmod>2025-08-03T17:00:12.460Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/introduccion-botanica/index.html</loc>
-    <lastmod>2025-08-05T04:07:32.366Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/diversidad-laboratorio/index.html</loc>
-    <lastmod>2025-08-03T17:00:11.802Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/tallo-laboratorio/index.html</loc>
-    <lastmod>2025-08-03T17:00:12.460Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/raiz-laboratorio/index.html</loc>
-    <lastmod>2025-08-03T17:00:12.459Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/citologia/index.html</loc>
-    <lastmod>2025-08-03T17:00:11.802Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/citologia-laboratorio/index.html</loc>
-    <lastmod>2025-08-03T17:00:11.802Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/histologia/index.html</loc>
-    <lastmod>2025-08-03T17:00:11.805Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/diversidad/index.html</loc>
-    <lastmod>2025-08-03T17:00:11.803Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/flor/index.html</loc>
-    <lastmod>2025-08-03T17:00:11.804Z</lastmod>
+    <loc>https://biologia-plantas.github.io/2025-2/enlaces.html</loc>
+    <lastmod>2025-09-13T03:04:18.896Z</lastmod>
   </url>
   <url>
     <loc>https://biologia-plantas.github.io/2025-2/presentaciones/hoja-laboratorio/index.html</loc>
-    <lastmod>2025-08-03T17:00:11.805Z</lastmod>
+    <lastmod>2025-08-15T01:59:52.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/tallo-laboratorio/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/flor/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.590Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/raiz-laboratorio/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/introduccion-botanica/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/diversidad-laboratorio/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.589Z</lastmod>
   </url>
   <url>
     <loc>https://biologia-plantas.github.io/2025-2/presentaciones/tallo/index.html</loc>
-    <lastmod>2025-08-03T17:00:12.460Z</lastmod>
+    <lastmod>2025-08-15T01:59:52.887Z</lastmod>
   </url>
   <url>
-    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/histologia-laboratorio/index.html</loc>
-    <lastmod>2025-08-03T17:00:11.804Z</lastmod>
+    <loc>https://biologia-plantas.github.io/2025-2/index.html</loc>
+    <lastmod>2025-09-13T03:15:10.959Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/fruto-laboratorio/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.590Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/diversidad/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.590Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/raiz/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/citologia-laboratorio/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.589Z</lastmod>
   </url>
   <url>
     <loc>https://biologia-plantas.github.io/2025-2/presentaciones/introduccion-curso/index.html</loc>
-    <lastmod>2025-08-03T17:00:12.459Z</lastmod>
+    <lastmod>2025-08-15T01:59:52.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/flor-laboratorio/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.590Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/citologia/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.589Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/histologia-laboratorio/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-2/presentaciones/histologia/index.html</loc>
+    <lastmod>2025-08-15T01:59:52.591Z</lastmod>
   </url>
 </urlset>
