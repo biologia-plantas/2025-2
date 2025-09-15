@@ -123,8 +123,10 @@ tbl_cronograma_medellin <-
   ) |> 
   gt::cols_label(
     clase = "Clase",
+    martes = "Martes",
     miercoles = "Miércoles",
     jueves = "Jueves",
+    viernes = "Viernes",
     laboratorio = "Laboratorio"
   ) |> 
   gt::fmt_markdown(
@@ -140,8 +142,14 @@ tbl_cronograma_medellin <-
   gt::tab_footnote(
     footnote = ("El cronograma puede variar dependiendo del desarrollo del curso")
   ) |> 
+  gt::tab_footnote(
+    footnote = ("El martes 2025-10-28 es el examen de admisión de la UdeA")
+  ) |> 
+  gt::tab_footnote(
+    footnote = ("Vacaciones colectivas entre 2025-12-22 y 2026-01-16, ambas fechas inclusive.")
+  ) 
   gt::cols_width(
-    c("miercoles", "jueves") ~ gt::px(110)
+    c("martes" ,"miercoles", "jueves", "viernes") ~ gt::px(110)
   )
 
 ## Medellín evaluación laboratorio ---- 
