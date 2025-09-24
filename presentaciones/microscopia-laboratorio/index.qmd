@@ -1,0 +1,219 @@
+---
+title: "Microscopía: laboratorio"
+# date: 2025-04-28
+format: revealjs
+bibliography: references.bib
+nocite: |
+  @costea2025, @curtis2019, @detrick2025
+---
+
+# Introducción
+
+## Microscopio
+
+::::: columns
+::: {.column width="50%"}
+![Partes del
+miscroscopio](/presentaciones/images/laboratorio/partes_microscopio.png){#fig-microscopio fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Objetivos 40X y 100X. E. Referencia de fábrica. A. Objetivos son
+acromáticos.](/presentaciones/images/laboratorio/microscopio_objetivos.png){#fig-objetivos fig-align="center"}
+:::
+:::::
+
+## Abertura numérica
+
+::::: columns
+::: {.column width="50%"}
+> Capacidad que tiene el objetivo para recibir el cono de luz que pasa a través
+> de la muestra, procedente de la fuente de luz. La abertura numérica es
+> directamente proporcional al índice de refracción del medio en que se propaga
+> la luz (aire, agua, vidrio, aceite de inmersión), pues mientras mayor sea el
+> índice de refracción, mayor será el cono de luz, lo cual origina un mayor
+> poder de resolución.
+:::
+
+::: {.column width="50%"}
+![Abertura numérica.
+@díez.](/presentaciones/images/laboratorio/abetura_numerica.jpg){#fig-abertura fig-align="center"}
+:::
+:::::
+
+## Poder de resolución
+
+::::: columns
+::: {.column width="50%"}
+> Capacidad que posee un instrumento óptico para diferenciar dos puntos que a
+> simple vista parecen uno solo debido a la pequeña distancia que hay entre
+> ellos. Es caracteŕstico de cada instrumento óptico y depende en gran parte de
+> la luz y de las lentes utilizadas.
+
+$$
+R = \lambda / 2AN
+$$
+
+$\lambda:$ longitud de onda (640 nm)
+
+| Objetivo | nm    | µm   |
+|----------|-------|------|
+| 4X       | 3200  | 3.2  |
+| 10X      | 1280  | 1.28 |
+| 40X      | 492.3 | 0.49 |
+| 100X     | 245.1 | 0.25 |
+:::
+
+::: {.column width="50%"}
+![Poder de
+resolución.](/presentaciones/images/laboratorio/poder_resolucion.png){#fig-poder-resolucion fig-align="center"}
+:::
+:::::
+
+## Poder de aumento
+
+> Capacidad que posee un instrumento óptico para producir una imagen aumentada
+> de un objeto.
+
+::::: columns
+::: {.column width="50%"}
+$$
+A_t = A_{oc} \times A_{ob}
+$$
+
+$A_t:$ Aumento total
+
+$A_{oc}:$ Aumento del ocular
+
+$A_{ob}:$ Aumento del objetivo
+:::
+
+::: {.column width="50%"}
+| Aumento objetivo | Aumento ocular | Aumento total |
+|------------------|----------------|---------------|
+| 4X               | 10X            | 40X           |
+| 10X              | 10X            | 100X          |
+| 40X              | 10X            | 400X          |
+| 100X             | 10X            | 1000X         |
+:::
+:::::
+
+![Funcionamiento de un microscopio.
+@mundomicroscopio.com.](/presentaciones/images/laboratorio/poder_aumento.jpg){#fig-poder-aumento fig-align="center"}
+
+## Campo visual
+
+::::: columns
+::: {.column width="50%"}
+> Área circular que se observa al mirar por los oculares y varía según las
+> lentes utilizadas. El diámetro del campo visual de un microscopio compuesto se
+> calculan dividiendo el valor del número del campo por el aumento del objetivo
+> que se esté utilizando
+
+$$
+d = 18L/{A_{ob}}
+$$
+
+$A_{ob}:$ aumentos del objetivo
+:::
+
+::: {.column width="50%"}
+| Objetivo | Diámetro (mm) | Diámetro (µm) | Área (mm^2^) |
+|----------|---------------|---------------|--------------|
+| 4X       | 4.5           | 4500          | 15.90        |
+| 10X      | 1.8           | 1800          | 2.54         |
+| 40X      | 0.45          | 450           | 0.16         |
+| 100X     | 0.18          | 180           | 0.02         |
+:::
+:::::
+
+![Campo visual del miscrocopio en 10X y 40X.
+@administrador2018.](/presentaciones/images/laboratorio/campo_visual.png){#fig-campo-visual fig-align="center"}
+
+::: footer
+Área del circulo: $A = \pi r^2$
+:::
+
+## Montaje en fresco
+
+![Montaje en
+fresco.](/presentaciones/images/laboratorio/montaje_fresco.png){#fig-montaje fig-align="center"}
+
+## Tipos de corte
+
+![Tipos de corte en
+botánica.](/presentaciones/images/laboratorio/tipos_corte_color.png){#fig-tipos-corte fig-align="center"}
+
+## Coloración
+
+|                   | Azul de toluidina | Safranina - Azul alcián |
+|-------------------|-------------------|-------------------------|
+| Pared primaria    | Azul a púrpura    | Azul                    |
+| Pared secundaria  | Verde brillante   | Rojo                    |
+| Suberina y cutina | Verde brillante   | Rojo                    |
+
+: Resultados de las dos tinciones generales.
+
+::::: columns
+::: {.column width="50%"}
+![Tinción con Azul de
+toluidina.](/presentaciones/images/colorante_azul_toluidina.png){#fig-colorante_01
+fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Tinción con Safranina-Azul
+alcián.](/presentaciones/images/colorante_safranina_azul_alcian.jpg){#fig-colorante_02
+fig-align="center"}
+:::
+:::::
+
+::: footer
+Fotografías de @megías-pacheco2017.
+:::
+
+# Procedimiento
+
+## Las partes del microscopio compuesto
+
+Reconocer las partes del miscroscopio asignado
+
+## Preparación y observación de un montaje en fresco
+
+Montaje en fresco con hilos de colores, cabello, granos de polen
+
+## Características de la imagen
+
+Montaje en fresco de letras impresa, papel milimetrado
+
+## Montaje botánico
+
+Cortes colroeados y sin colorear de flores y hojas de *Tradescantia pallida*,
+flores de *Hemerocallis sp.*, tallos de *Aristolochia ringens*, tallos de
+*Bidens pilosa* y hojas de *Ficus elastica*
+
+![](/presentaciones/images/laboratorio/microscopia_plantas.jpg){fig-align="center"}
+
+# ¿Preguntas?
+
+## Material próximo laboratorio {.smaller}
+
+-   Bulbo de *Allium cepa* (Cebolla de huevo)
+-   Fruto de *Capsicum annuum* (Pimentón rojo)
+-   Fruto de *Solanum lycopersicum* (Tomate)
+-   Hojas de *Ficus elastica* (Caucho)
+-   Hojas y tallos de *Tradescantia pallida* (Guardaparque)
+-   Pecíolos y hojas de *Begonia spp.*
+-   Pétalos de diferentes colores
+-   Ramas de *Egeria densa* (Elodea)
+-   Ramas de *Impatiens balsamina* (Besito)
+-   Ramas de *Pinus spp.* (Pino)
+-   Raíz de *Manihot esculenta* (Yuca)
+-   Semillas frescas de *Phaseolus vulgaris* (Frijol)
+-   Semillas frescas de *Zea mays* (Maíz)
+-   Semillas hidratadas de *Triticum aestivum* (Trigo)
+-   Tallos de *Daucus carota* (Zanahoria)
+-   Tallos de *Aristolochia ringens*
+-   Tubérculo de *Solanum tuberosum* (Papa)
+
+## Referencias
