@@ -91,6 +91,8 @@ website:
           #   href: presentaciones/introducción-laboratorio/
           # - text: "Recorrido"
           #   href: presentaciones/recorrido/
+          - text: "Microscopía"
+            href: presentaciones//microscopia-laboratorio/
           - text: "Citología"
             href: presentaciones/citologia-laboratorio/
           - text: "Histología"
