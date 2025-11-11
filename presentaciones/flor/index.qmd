@@ -784,7 +784,7 @@ microsporocitos \= células madres del polen
 
 -   Importancia en sistemática
     -   Tamaño, forma, color, superficie de la testa, hilo, rafe
--   Semillas endospérmicas (albuminosas) y endospérmicas (exalbuminosas)
+-   Semillas endospérmicas (albuminosas) y no endospérmicas (exalbuminosas)
 -   Embrión (esporófito inmaduro)
     -   Epicótilo, cotiledones, hipocótilo, radícula
 -   Germinación epígea, hipógea, vivípara
