@@ -124,7 +124,8 @@ tbl_cronograma_medellin <-
   gt::cols_label(
     clase = "Clase",
     martes = "Martes",
-    miercoles = "Miércoles",
+    miercoles1 = "Miércoles mañana",
+    miercoles2 = "Miércoles tarde",
     jueves = "Jueves",
     viernes = "Viernes",
     laboratorio = "Laboratorio"
@@ -150,7 +151,7 @@ tbl_cronograma_medellin <-
     footnote = ("Vacaciones colectivas entre 2025-12-22 y 2026-01-16, ambas fechas inclusive.")
   ) |> 
   gt::cols_width(
-    c("martes" ,"miercoles", "jueves", "viernes") ~ gt::px(110)
+    c("martes" ,"miercoles1", "miercoles2", "jueves", "viernes") ~ gt::px(110)
   )
 
 ## Medellín evaluación laboratorio ---- 
